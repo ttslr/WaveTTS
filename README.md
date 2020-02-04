@@ -5,6 +5,8 @@ __" WaveTTS: Tacotron-based TTS with Joint Time-Frequency Domain Loss "__,
 
 __Authors__: Rui Liu, Berrak Sisman, Feilong Bao, Guanglai Gao, Haizhou Li
 
+[paper](https://arxiv.org/pdf/2002.00417.pdf)
+
 
 
 ## Speech samples
